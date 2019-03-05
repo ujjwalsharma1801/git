@@ -2,6 +2,7 @@ this is ujjwal!!! welcome to git
 
 bug 123 ---> resolved
 
+
 This is the master commit 1
 
 
@@ -9,3 +10,10 @@ This is the master commit 2
 
 
 This is the master commit 3
+
+
+This is the master commit 1
+
+
+This is the bug commit 2
+
