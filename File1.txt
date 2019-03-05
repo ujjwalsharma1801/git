@@ -1,3 +1,5 @@
 this is ujjwal!!! welcome to git 
 
 bug 123 ---> resolved
+
+This is the master commit 1
